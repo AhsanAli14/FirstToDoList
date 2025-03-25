@@ -1,0 +1,9 @@
+@import 'tailwindcss';
+
+@theme {
+    --color-offwhite: #F5EEDC;
+    --color-btn: #DDA853;
+    --color-list: #183B4E;
+
+    --drop-shadow-3xl: 0px 0px 3px rgba(0, 0, 0, 0.3);
+  }
